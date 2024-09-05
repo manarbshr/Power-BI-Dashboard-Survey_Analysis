@@ -6,11 +6,30 @@ This project provides an analysis of a survey conducted with tech professionals 
 - **Data**: Survey data from various tech professionals.
 - **Tools**: Power BI for dashboard creation.
 - **Key Insights**: 
-  - Job satisfaction levels.
-  - Preferred programming languages.
-  - Career shifts into data fields.
-  - Work-life balance satisfaction.
-  - Factors influencing career shifts.
+  The dashboard consists of **four pages**, each offering insights into different aspects of the survey data:
+
+1. **Survey Breakdown**:
+   - Number of people who took the survey.
+   - Participants' countries.
+   - Job titles and industries.
+   - Time taken to complete the survey.
+   
+2. **Career Shifting into Data**:
+   - Number of participants who shifted into data-related careers.
+   - Education and industry background.
+   - Participants' ability to learn new things.
+   - Difficulty in transitioning into the data field.
+
+3. **Techs Life**:
+   - Participants' current salaries.
+   - Preferred programming languages.
+   - Job satisfaction in the tech industry.
+
+4. **Work-Life Balance Satisfaction**:
+   - Satisfaction with management.
+   - Work-life balance.
+   - Salary satisfaction.
+   - What is considered most important in the workplace (e.g., salary, environment, work-life balance).
 
 ## Files
 - **Dashboard (.pbix)**: The main Power BI file.
